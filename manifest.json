@@ -1,0 +1,4 @@
+{"build": 19, "name": "1.9.1", "min_base": 18,
+ "win": {"file": "p_19_w.pck", "sha": "3dd09f1e64cbd60ccee51c5f64c995a529be727592f26466b3ae187e786ff469"},
+ "and": {"file": "p_19_a.pck", "sha": "3dd09f1e64cbd60ccee51c5f64c995a529be727592f26466b3ae187e786ff469"},
+ "x": {"file": "d_19.bin", "sha": "cbbdba58776d79fae2cce77c266bc2ee5fff7fb82266de6f35f2f788cf2fd85f"}}
