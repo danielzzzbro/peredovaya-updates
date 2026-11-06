@@ -1,4 +1,4 @@
-{"build": 24, "name": "1.10.4", "min_base": 18,
- "win": {"file": "p_24_w.pck", "sha": "af3afcaf4b101f8b126d154438a1347bf12d2f3c306e4c705235cc4476db85fe"},
- "and": {"file": "p_24_a.pck", "sha": "af3afcaf4b101f8b126d154438a1347bf12d2f3c306e4c705235cc4476db85fe"},
- "x": {"file": "d_24.bin", "sha": "ecc1671540fcec33ea3a8ccae5899944ccfa803b886598ff56ee70ec908536e7"}}
+{"build": 25, "name": "1.10.5", "min_base": 18,
+ "win": {"file": "p_25_w.pck", "sha": "bf19fbf4fc8db9db037edd1f21a193ff52aa1446e43bba52ef52a004ca8b1d9d"},
+ "and": {"file": "p_25_a.pck", "sha": "bf19fbf4fc8db9db037edd1f21a193ff52aa1446e43bba52ef52a004ca8b1d9d"},
+ "x": {"file": "d_25.bin", "sha": "c497e290da5ee4b17b098d3d8b430d76722d45b7361df5db482cdc9a0bd7102c"}}
