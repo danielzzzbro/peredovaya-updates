@@ -1,4 +1,4 @@
-{"build": 50, "name": "1.20.11", "min_base": 18,
- "win": {"file": "p_50_w.pck", "sha": "2d117f6d7f131b5975348a56b96ab98820e4d6f9825538ff9cfc1c1d2a95c987"},
- "and": {"file": "p_50_a.pck", "sha": "2d117f6d7f131b5975348a56b96ab98820e4d6f9825538ff9cfc1c1d2a95c987"},
- "x": {"file": "d_50.bin", "sha": "b69c5fd354f36c7947b000de10e855a3b6ff89f0d196f533c214f66feb20a50b"}}
+{"build": 51, "name": "1.20.12", "min_base": 18,
+ "win": {"file": "p_51_w.pck", "sha": "1cc7c71279cf574a81b4b4e90cec2a01a97cf391237ac03d1b010742f65f1866"},
+ "and": {"file": "p_51_a.pck", "sha": "1cc7c71279cf574a81b4b4e90cec2a01a97cf391237ac03d1b010742f65f1866"},
+ "x": {"file": "d_51.bin", "sha": "7b36a822f3b24a82e95bd18857466e96c21c5a74ab9ef97130225fa4f4e76aaf"}}
